@@ -17,7 +17,8 @@ This honey pot records or captures payloads and malware.
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+MHN architecture uses a single administrator VM to deploy, manage, and collect information from the honeypots, which are deployed as separate virtual machines. The information recorded from the exported JSON file are types of malware or attacks that were captured from the honey pot.
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+Challenges I faced for week 9 project was setting up and using google cloud cli because it is very confusing to use without the proper knowledge on how to use it. 
