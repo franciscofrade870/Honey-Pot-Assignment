@@ -36,4 +36,4 @@ Challenges I faced for week 9 project was setting up and using google cloud cli 
 
 --------------------------------------------
 Update:
-When I was redoing the assignment to create all the gifs needed for this, the deployment did not want to work this time. When I originally did it, everything was smooth. Now nothing doesn't want to work and I am not sure why
+When I was redoing the assignment to create all the gifs needed for this, the deployment did not want to work this time. When I originally did it, everything was smooth. Now nothing doesn't want to work and I am not sure why. Also the gifs not the photos would show on Github which was weird.
